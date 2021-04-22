@@ -1,0 +1,862 @@
+[
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_share.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_share.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_facebook.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_payment_history.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_payment_history.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_settings.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_register_hero.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_register_hero.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_person.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_wishlist.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_wishlist.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back_img.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_back_img.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_history.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_history.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_login_hero.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_login_hero.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_slideshow.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_google_plus.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_google_plus.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sell_gradiant.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable\\sell_gradiant.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_order.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_order.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_conversations.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_conversations.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_history.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_history.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_withlist.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_withlist.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_money_withdraw.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_money_withdraw.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_history.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_history.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_review.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_review.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_add_img.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add_img.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_facebook.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_history.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_history.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_support_ticket.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_support_ticket.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_add_img.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_add_img.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_person.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_person.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back_img.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_back_img.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_manage_profile.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_manage_profile.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_gallery.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_order.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_order.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_person.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_person.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_payment_history.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_payment_history.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_back_img.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_back_img.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_trade_license.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_trade_license.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pending.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable\\pending.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_review.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_review.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_earning_gradiant.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable\\earning_gradiant.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_manage_profile.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_manage_profile.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_login_hero.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_login_hero.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_register_hero.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_register_hero.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_login_hero.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_login_hero.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_conversations.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_conversations.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_login_hero.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_login_hero.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_add_img.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_add_img.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_person.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_support_ticket.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_support_ticket.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_register_hero.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_register_hero.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_register_hero.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_register_hero.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_order.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_order.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_conversations.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_conversations.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_login_hero.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_login_hero.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_payment_history.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_payment_history.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_support_ticket.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_support_ticket.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_send.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_google_plus.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_google_plus.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_add_img.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_add_img.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_money_withdraw.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_money_withdraw.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_side_bg.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable\\ic_side_bg.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_google_plus.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_google_plus.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_add_img.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add_img.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_settings.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_purchase_history.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_purchase_history.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_background_blue.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable\\button_background_blue.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_payment_history.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_payment_history.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_money_withdraw.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_money_withdraw.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_conversations.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_conversations.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_conversations.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_conversations.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_review.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_review.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_money_withdraw.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_money_withdraw.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_history_item.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\history_item.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_history.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_history.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_facebook.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_withlist.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_withlist.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_support_ticket.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_support_ticket.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_person.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_person.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_manage_profile.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_manage_profile.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_withlist.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_withlist.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_trade_license.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_trade_license.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_support_ticket.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_support_ticket.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_success_order_gradiant.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable\\success_order_gradiant.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registration.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_google_plus.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_google_plus.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_trade_license.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_trade_license.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_settings.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_settings.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_person.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_person.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_facebook.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_order_list.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_order_list.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_shop_setting.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_shop_setting.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_facebook.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_facebook.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_facebook.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_facebook.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_manage_profile.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_manage_profile.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_slideshow.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_manage_profile.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_manage_profile.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_trade_license.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_trade_license.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_back_img.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_back_img.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_history.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_history.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_back_img.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_back_img.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_support_ticket.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_support_ticket.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_review.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_review.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_payment_history.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_payment_history.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_order.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_order.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_facebook.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_facebook.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_order.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_order.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_login_hero.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_login_hero.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_manage_profile.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_manage_profile.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_history.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_history.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_login_hero.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_login_hero.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_send.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_send.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_register_hero.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_register_hero.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_money_withdraw.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_money_withdraw.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_settings.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_settings.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_payment_history.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_payment_history.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_conversations.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_conversations.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_manage_profile.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_manage_profile.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back_img.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_back_img.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_withlist.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_withlist.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_share.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_google_plus.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_google_plus.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_money_withdraw.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_money_withdraw.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_withlist.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_withlist.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_conversations.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_conversations.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_add_img.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_add_img.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_trade_license.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_trade_license.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_money_withdraw.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_money_withdraw.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\anim_stay.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\anim\\stay.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_support_ticket.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_support_ticket.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_back_img.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_back_img.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_stay.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable\\stay.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_register_hero.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_register_hero.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_support_ticket.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_support_ticket.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_person.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_person.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_conversations.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_conversations.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_review.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_review.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_order.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_order.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_settings.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_settings.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_payment_history.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_payment_history.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_review.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_review.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_trade_license.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_trade_license.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dashboard.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_withlist.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_withlist.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_add_img.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_add_img.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_review.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_review.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_order.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_order.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_trade_license.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_trade_license.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_settings.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_settings.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable_product_gradiant.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable\\product_gradiant.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_google_plus.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_google_plus.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_product_review.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_product_review.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_google_plus.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_google_plus.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_register_hero.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_register_hero.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_tools.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_tools.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_products.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_products.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_money_withdraw.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_money_withdraw.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_withlist.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_withlist.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_payment_history.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_payment_history.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_manage_profile.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\layout\\fragment_manage_profile.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_settings.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_settings.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_trade_license.png.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_trade_license.png"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "G:\\soft it care\\colorceramicsvendor\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ic_menu_camera.xml.flat",
+        "source": "G:\\soft it care\\colorceramicsvendor\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    }
+]

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_dashboard">
+
+    <fragment
+        android:id="@+id/nav_dashboard"
+        android:name="com.softitcare.colorceramics_vendor.ui.fragment.DashboardFragment"
+        android:label="Dashboard"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/nav_purchase_history"
+        android:name="com.softitcare.colorceramics_vendor.ui.fragment.PurchaseHistory"
+        android:label="Purchases History"
+        tools:layout="@layout/fragment_purchase_history" />
+
+    <fragment
+        android:id="@+id/nav_wishlist"
+        android:name="com.softitcare.colorceramics_vendor.ui.fragment.Wishlist"
+        android:label="Wishlist"
+        tools:layout="@layout/fragment_wishlist" />
+
+    <fragment
+        android:id="@+id/nav_product_review"
+        android:name="com.softitcare.colorceramics_vendor.ui.fragment.ProductReview"
+        android:label="Product Review"
+        tools:layout="@layout/fragment_product_review"/>
+    <fragment
+        android:id="@+id/nav_payment_history"
+        android:name="com.softitcare.colorceramics_vendor.ui.fragment.PaymentHistory"
+        android:label="Payment History"
+        tools:layout="@layout/fragment_payment_history" />
+    <fragment
+        android:id="@+id/nav_money_withdraw"
+        android:name="com.softitcare.colorceramics_vendor.ui.share.ShareFragment"
+        android:label="Money Withdraw"
+        tools:layout="@layout/fragment_share" />
+
+    <fragment
+        android:id="@+id/nav_support_ticket"
+        android:name="com.softitcare.colorceramics_vendor.ui.fragment.SupportTicket"
+        android:label="Support Ticket"
+        tools:layout="@layout/fragment_support_ticket" />
+    <fragment
+        android:id="@+id/nav_manage_profile"
+        android:name="com.softitcare.colorceramics_vendor.ui.fragment.ManageProfile"
+        android:label="Manage Profile"
+        tools:layout="@layout/fragment_manage_profile" />
+    <fragment
+        android:id="@+id/nav_trade_license"
+        android:name="com.softitcare.colorceramics_vendor.ui.fragment.TradeLicense"
+        android:label="Trade License"
+        tools:layout="@layout/fragment_trade_license" />
+
+    <fragment
+        android:id="@+id/bottom_dashboard"
+        android:name="com.softitcare.colorceramics_vendor.ui.fragment.DashboardFragment"
+        android:label="Dashboard"
+        tools:layout="@layout/fragment_dashboard" />
+
+    <fragment
+        android:id="@+id/bottom_product"
+        android:name="com.softitcare.colorceramics_vendor.ui.fragment.Products"
+        android:label="Products"
+        tools:layout="@layout/fragment_products" />
+
+    <fragment
+        android:id="@+id/bottom_orders"
+        android:name="com.softitcare.colorceramics_vendor.ui.fragment.OrderList"
+        android:label="Order List"
+        tools:layout="@layout/fragment_order_list" />
+    <fragment
+        android:id="@+id/bottom_conversations"
+        android:name="com.softitcare.colorceramics_vendor.ui.fragment.Conversations"
+        android:label="Conversations"
+        tools:layout="@layout/fragment_conversations"/>
+
+    <fragment
+        android:id="@+id/bottom_setting"
+        android:name="com.softitcare.colorceramics_vendor.ui.fragment.ShopSetting"
+        android:label="Shop Setting"
+        tools:layout="@layout/fragment_shop_setting"/>
+</navigation>

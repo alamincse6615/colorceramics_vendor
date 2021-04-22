@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Dashboard" />
+        <item
+            android:id="@+id/nav_purchase_history"
+            android:icon="@drawable/ic_history"
+            android:title="Purchases History" />
+        <item
+            android:id="@+id/nav_wishlist"
+            android:icon="@drawable/ic_withlist"
+            android:title="Wishlist" />
+        <item
+            android:id="@+id/nav_product_review"
+            android:icon="@drawable/ic_review"
+            android:title="Product Review" />
+        <item
+            android:id="@+id/nav_payment_history"
+            android:icon="@drawable/ic_payment_history"
+            android:title="Payment History" />
+        <item
+            android:id="@+id/nav_money_withdraw"
+            android:icon="@drawable/ic_money_withdraw"
+            android:title="Money Withdraw" />
+        <item
+            android:id="@+id/nav_support_ticket"
+            android:icon="@drawable/ic_support_ticket"
+            android:title="Support Ticket" />
+        <item
+            android:id="@+id/nav_manage_profile"
+            android:icon="@drawable/ic_manage_profile"
+            android:title="Manage Profile" />
+        <item
+            android:id="@+id/nav_trade_license"
+            android:icon="@drawable/ic_trade_license"
+            android:title="Trade License" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Log Out" />
+        </menu>
+    </item>
+
+</menu>

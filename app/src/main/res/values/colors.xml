@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f1b125</color>
+    <color name="colorPrimaryDark">#d67b1a</color>
+    <color name="colorAccent">#525252</color>
+
+    <color name="primaryTextColor">#11CFC5</color>
+    <color name="whiteColor">#fff</color>
+    <color name="register_bk_color">#11CFC5</color>
+</resources>
