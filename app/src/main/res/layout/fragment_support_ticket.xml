@@ -12,6 +12,6 @@
         android:layout_centerInParent="true"
         android:textSize="25dp"
         android:textColor="@android:color/holo_green_dark"
-        android:text="Support Ticket" />
+        android:text="" />
 
 </RelativeLayout>

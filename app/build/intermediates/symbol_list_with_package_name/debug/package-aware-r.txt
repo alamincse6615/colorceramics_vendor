@@ -1,4 +1,4 @@
-com.touchizen.drawerwithbottomnavigation
+com.softitcare.colorceramics_vendor
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -27,6 +27,7 @@ anim design_bottom_sheet_slide_in
 anim design_bottom_sheet_slide_out
 anim design_snackbar_in
 anim design_snackbar_out
+anim fade_out
 anim fragment_close_enter
 anim fragment_close_exit
 anim fragment_fade_enter
@@ -1622,6 +1623,7 @@ drawable ic_settings
 drawable ic_side_bg
 drawable ic_support_ticket
 drawable ic_trade_license
+drawable ic_upload
 drawable ic_withlist
 drawable logo
 drawable material_ic_calendar_black_24dp
@@ -1659,6 +1661,7 @@ drawable sell_gradiant
 drawable side_nav_bar
 drawable stay
 drawable success_order_gradiant
+drawable test
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1873,6 +1876,10 @@ id left
 id line1
 id line3
 id linear
+id linear1
+id linear2
+id linear3
+id linear4
 id listMode
 id list_item
 id ll_header
@@ -1919,9 +1926,11 @@ id nav_logout
 id nav_manage_profile
 id nav_money_withdraw
 id nav_payment_history
+id nav_product_bulk_upload
 id nav_product_review
 id nav_purchase_history
 id nav_share
+id nav_show_all_products
 id nav_support_ticket
 id nav_trade_license
 id nav_view
@@ -2171,6 +2180,7 @@ layout abc_tooltip
 layout activity_login
 layout activity_main
 layout activity_registration
+layout activity_splash
 layout app_bar_main
 layout content_main
 layout custom_dialog
@@ -2196,12 +2206,14 @@ layout fragment_money_withdraw
 layout fragment_notifications
 layout fragment_order_list
 layout fragment_payment_history
+layout fragment_product_bulk_upload
 layout fragment_product_review
 layout fragment_products
 layout fragment_purchase_history
 layout fragment_send
 layout fragment_share
 layout fragment_shop_setting
+layout fragment_show_all_products
 layout fragment_slideshow
 layout fragment_support_ticket
 layout fragment_tools
@@ -2796,6 +2808,7 @@ style Theme_AppCompat_Light_Dialog_Alert
 style Theme_AppCompat_Light_Dialog_MinWidth
 style Theme_AppCompat_Light_DialogWhenLarge
 style Theme_AppCompat_Light_NoActionBar
+style Theme_AppCompat_Light_NoActionBar_FullScreen
 style Theme_AppCompat_NoActionBar
 style Theme_Design
 style Theme_Design_BottomSheetDialog

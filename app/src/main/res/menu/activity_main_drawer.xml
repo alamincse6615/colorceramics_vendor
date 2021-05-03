@@ -17,9 +17,17 @@
             android:icon="@drawable/ic_withlist"
             android:title="Wishlist" />
         <item
+            android:id="@+id/nav_show_all_products"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="Show All Products" />
+        <item
             android:id="@+id/nav_product_review"
             android:icon="@drawable/ic_review"
             android:title="Product Review" />
+        <item
+            android:id="@+id/nav_product_bulk_upload"
+            android:icon="@drawable/ic_upload"
+            android:title="Product Bulk Upload" />
         <item
             android:id="@+id/nav_payment_history"
             android:icon="@drawable/ic_payment_history"

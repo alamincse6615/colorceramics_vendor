@@ -3,15 +3,4 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.fragment.ProductReview">
-
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:textSize="25dp"
-        android:textColor="@color/colorPrimaryDark"
-        android:layout_centerInParent="true"
-        android:text="Product Review" />
-
-</RelativeLayout>
+    tools:context=".ui.fragment.ProductReview"/>

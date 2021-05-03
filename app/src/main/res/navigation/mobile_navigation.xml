@@ -22,6 +22,11 @@
         android:name="com.softitcare.colorceramics_vendor.ui.fragment.Wishlist"
         android:label="Wishlist"
         tools:layout="@layout/fragment_wishlist" />
+    <fragment
+        android:id="@+id/nav_show_all_products"
+        android:name="com.softitcare.colorceramics_vendor.ui.fragment.ShowAllProducts"
+        android:label="Show All Products"
+        tools:layout="@layout/fragment_show_all_products"/>
 
     <fragment
         android:id="@+id/nav_product_review"
@@ -34,8 +39,13 @@
         android:label="Payment History"
         tools:layout="@layout/fragment_payment_history" />
     <fragment
+        android:id="@+id/nav_product_bulk_upload"
+        android:name="com.softitcare.colorceramics_vendor.ui.fragment.ProductBulkUpload"
+        android:label="Product Bulk Upload"
+        tools:layout="@layout/fragment_product_bulk_upload" />
+    <fragment
         android:id="@+id/nav_money_withdraw"
-        android:name="com.softitcare.colorceramics_vendor.ui.share.ShareFragment"
+        android:name="com.softitcare.colorceramics_vendor.ui.fragment.MoneyWithdraw"
         android:label="Money Withdraw"
         tools:layout="@layout/fragment_share" />
 

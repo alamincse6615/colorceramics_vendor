@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.touchizen.drawerwithbottomnavigation"
+3    package="com.softitcare.colorceramics_vendor"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
@@ -10,61 +10,81 @@
 9        android:targetSdkVersion="30" />
 9-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml
 10
-11    <application
-11-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:5:5-27:19
-12        android:allowBackup="true"
-12-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:6:9-35
-13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.3.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:18-86
-14        android:debuggable="true"
-15        android:icon="@drawable/logo"
-15-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:7:9-38
-16        android:label="@string/app_name"
-16-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:8:9-41
-17        android:roundIcon="@drawable/logo"
-17-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:9:9-43
-18        android:supportsRtl="true"
-18-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:10:9-35
-19        android:testOnly="true"
-20        android:theme="@style/AppTheme" >
-20-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:11:9-40
-21        <activity android:name="com.softitcare.colorceramics_vendor.ui.activity.RegistrationActivity" >
-21-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:12:9-19:20
-21-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:12:19-67
-22            <intent-filter>
-22-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:13:13-17:29
-23                <action android:name="android.intent.action.MAIN" />
-23-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:14:17-69
-23-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:14:25-66
-24
-25                <category android:name="android.intent.category.LAUNCHER" />
-25-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:16:17-77
-25-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:16:27-74
-26            </intent-filter>
-27        </activity>
-28        <activity android:name="com.softitcare.colorceramics_vendor.ui.activity.LoginActivity" />
-28-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:20:9-63
-28-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:20:19-60
-29        <activity
-29-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:21:9-26:20
-30            android:name="com.softitcare.colorceramics_vendor.MainActivity"
-30-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:22:13-41
-31            android:label="@string/app_name"
-31-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:23:13-45
-32            android:theme="@style/AppTheme.NoActionBar" >
-32-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:24:13-56
-33        </activity>
-34
-35        <provider
-35-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
-36            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-36-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
-37            android:authorities="com.touchizen.drawerwithbottomnavigation.lifecycle-process"
-37-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
-38            android:exported="false"
-38-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
-39            android:multiprocess="true" />
-39-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
-40    </application>
-41
-42</manifest>
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:5:5-67
+11-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:7:5-37:19
+14        android:allowBackup="true"
+14-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.3.1] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@drawable/logo"
+17-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:9:9-38
+18        android:label="@string/app_name"
+18-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:10:9-41
+19        android:roundIcon="@drawable/logo"
+19-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:11:9-43
+20        android:supportsRtl="true"
+20-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:12:9-35
+21        android:theme="@style/AppTheme" >
+21-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:13:9-40
+22        <activity
+22-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:14:9-21:20
+23            android:name="com.softitcare.colorceramics_vendor.ui.activity.SplashActivity"
+23-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:14:19-61
+24            android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen" >
+24-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:15:13-80
+25            <intent-filter>
+25-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:16:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:17:17-69
+26-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:17:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:19:17-77
+28-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity
+31-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:22:9-27:20
+32            android:name="com.softitcare.colorceramics_vendor.ui.activity.RegistrationActivity"
+32-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:22:19-67
+33            android:label="@string/app_name"
+33-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:23:13-45
+34            android:theme="@style/AppTheme.NoActionBar" >
+34-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:24:13-56
+35        </activity>
+36        <activity
+36-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:28:9-30:58
+37            android:name="com.softitcare.colorceramics_vendor.ui.activity.LoginActivity"
+37-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:28:19-60
+38            android:label="@string/app_name"
+38-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:29:13-45
+39            android:theme="@style/AppTheme.NoActionBar" />
+39-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:30:13-56
+40        <activity
+40-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:31:9-36:20
+41            android:name="com.softitcare.colorceramics_vendor.ui.activity.MainActivity"
+41-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:32:13-53
+42            android:label="@string/app_name"
+42-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:33:13-45
+43            android:theme="@style/AppTheme.NoActionBar" >
+43-->G:\soft it care\colorceramicsvendor\app\src\main\AndroidManifest.xml:34:13-56
+44        </activity>
+45
+46        <provider
+46-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+47            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+47-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+48            android:authorities="com.softitcare.colorceramics_vendor.lifecycle-process"
+48-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+49            android:exported="false"
+49-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+50            android:multiprocess="true" />
+50-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Asus\.gradle\caches\transforms-2\files-2.1\3af32d140be760521703c9060e27c1ae\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+51    </application>
+52
+53</manifest>

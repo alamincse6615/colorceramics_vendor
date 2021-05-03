@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "applicationId": "com.touchizen.drawerwithbottomnavigation",
+  "applicationId": "com.softitcare.colorceramics_vendor",
   "variantType": "BASE_APK",
   "elements": [
     {
@@ -19,7 +19,7 @@
       },
       "path": "resources-debug.ap_",
       "properties": {
-        "packageId": "com.touchizen.drawerwithbottomnavigation",
+        "packageId": "com.softitcare.colorceramics_vendor",
         "split": "",
         "minSdkVersion": "17"
       }
